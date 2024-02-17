@@ -1,6 +1,7 @@
 from unittest import TestCase
 from App.calculadora import Calculator
 
+
 class TestCalculadora(TestCase):
 
     def setUp(self):
